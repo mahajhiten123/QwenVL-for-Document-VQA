@@ -1,0 +1,1 @@
+# Paligemma-for-Document-VQA
