@@ -1,1 +1,1 @@
-# Paligemma-for-Document-VQA
+# QwenVL-for-Document-VQA
